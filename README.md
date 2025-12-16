@@ -5,7 +5,7 @@ This application is designed using Raylib. The purpose of the application is to 
 
 To run the application, you must have Cmake installed. 
 - First dowload the files. 
-- Then create a new folder called “build”.
+- Then create a new folder called “build” in the root with the application files downloaded.
 - Cd to the build folder and run the next command 
 
  		 cmake ..
