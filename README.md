@@ -7,9 +7,14 @@ To run the application, you must have Cmake installed.
 - First dowload the files. 
 - Then create a new folder called “build”.
 - Cd to the build folder and run the next command 
-		cmake ..
+
+ 		 cmake ..
+  
 - After that is finished, run the next command 
-		make
+
+  		make
+  
 - Lastly run the following command to get the application started
-		./InventoryFinal
-t
+
+  		./InventoryFinal
+  
