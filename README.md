@@ -1,4 +1,4 @@
-# InventoryManagemen# InventoryManagement
+# InventoryManagemen#
 
 This application is designed using Raylib. The purpose of the application is to track inventory by adding, editing, deleteing, and display them via a GUI. 
 
